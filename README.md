@@ -8,7 +8,7 @@
 
 - 🔭 I’m   Computer Science Student .
 - 📚 I’m currently learning front web development using JS, Bootstrap and React.
-- 👯 I’m looking for a software development Roles. 
+- 👯 I’m looking for a Software development Roles. 
 - 📫 Get in touch: [Linkedin](https://www.linkedin.com/in/ayushgangwar-a63674228/) [Gmail](mailto:ayush.gangwar210899@gmail.com)
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
