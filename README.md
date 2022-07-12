@@ -27,6 +27,7 @@
 <br/>
 <br/>
 ## 🚀 Languages and Tools:
+<br/>
 
 <p align="left"> 
     <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" style="height:48px"/> </a>
