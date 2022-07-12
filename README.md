@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-**<a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
+
 
 ## 📊 My Github Stats
 
