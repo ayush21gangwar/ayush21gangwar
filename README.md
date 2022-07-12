@@ -13,6 +13,19 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/ayush21gangwar/github-readme-stats"><img alt="Ayush Gangwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayush21gangwar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <p align="right">
+    <a href="https://github.com/ayush21gangwar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Gangwar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush21gangwar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+ <br/>
+<br/>
+<br/>
+<br/>
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -23,28 +36,6 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
-<br/>
-
-
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/ayush21gangwar/github-readme-stats"><img alt="Ayush Gangwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayush21gangwar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <p align="right">
-    <a href="https://github.com/ayush21gangwar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Gangwar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush21gangwar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
- 
-
-
-<br/>
-<br/>
-
-
-
-<br/>
 <br/>
 
 ## Connect with me:
