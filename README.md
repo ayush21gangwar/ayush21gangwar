@@ -25,16 +25,17 @@
 </p>
 <br/>
 
-<p align="center">
-    <a href="https://github.com/ayush21gangwar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Gangwar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush21gangwar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/ayush21gangwar/github-readme-stats"><img alt="Ayush Gangwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayush21gangwar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <p align="right">
+    <a href="https://github.com/ayush21gangwar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Gangwar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush21gangwar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
  
 
 
