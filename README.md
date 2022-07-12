@@ -1,4 +1,5 @@
-
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Ayush</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
