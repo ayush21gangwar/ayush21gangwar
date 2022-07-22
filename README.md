@@ -42,6 +42,7 @@
 <br/>
 
 ## Connect with me:
+<br/>
 <p align="left">
 <a href = "mailto:ayush.gangwar210899@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/ayush-gangwar-a63674228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
