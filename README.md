@@ -49,6 +49,6 @@
 <a href = "https://www.instagram.com/aayush_gangwar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-## ❤ Views and Follower's
+## ❤ Views and Follower's:
 <a href="https://github.com/ayush21gangwar/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ayush21gangwar"></a>
 <a href="https://github.com/ayush21gangwar?tab=followers"><img src="https://img.shields.io/github/followers/ayush21gangwar?label=Followers&style=social" alt="GitHub Badge"></a>
