@@ -20,15 +20,11 @@
 ## 📊 My Github Stats
 
   <br/>
-    
-    <a href="https://github.com/ayush21gangwar/github-readme-streak-stats">
+      <a href="https://github.com/ayush21gangwar/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Gangwar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush21gangwar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  <br/>
-<br/>
-<br/>
-<br/>
 ## 🚀 Languages and Tools:
 <br/>
 <p align="left"> 
