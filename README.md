@@ -9,7 +9,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🔭 I’m   Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 📚 I’m currently learning front web development using JS, Bootstrap & React
+- 📚 I’m currently learning front web development using JS, Bootstrap & React.
 - 👯 I’m looking for a Software development Roles.
 - 📫 Get in touch: [Linkedin](https://www.linkedin.com/in/ayushgangwar-a63674228/) [Gmail](mailto:ayush.gangwar210899@gmail.com)
 
